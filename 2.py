@@ -1,6 +1,6 @@
-num=int(raw_input())
-n=1
-while num>0:
-	n=n*num
-	num=num-1
-print n,
+num2=int(raw_input())
+num=1
+while num2>0:
+	num=num*num2
+	num2=num2-1
+print num,
